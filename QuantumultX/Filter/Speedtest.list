@@ -1,0 +1,8 @@
+# Speedtest
+USER-AGENT,SpeedTest*,Speedtest
+HOST-KEYWORD,speedtest,Speedtest
+HOST-SUFFIX,ooklaserver.net,Speedtest
+HOST-SUFFIX,evidon.com,Speedtest
+host,fast.rockisland.net,Speedtest
+host,b.cdnst.net,Speedtest
+host,cdn.ziffstatic.com,Speedtest
