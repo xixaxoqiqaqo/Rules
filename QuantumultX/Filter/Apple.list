@@ -1,0 +1,24 @@
+# > Apple
+HOST-SUFFIX,aaplimg.com,Apple
+HOST-SUFFIX,apple.co,Apple
+HOST-SUFFIX,apple.com,Apple
+HOST-SUFFIX,apple-dns.net,Apple
+HOST-SUFFIX,apple-cloudkit.com,Apple
+HOST-SUFFIX,cdn-apple.com,Apple
+HOST-SUFFIX,icloud.com,Apple
+HOST-SUFFIX,icloud-content.com,Apple
+HOST-SUFFIX,itunes.com,Apple
+HOST-SUFFIX,me.com,Apple
+HOST-SUFFIX,mzstatic.com,Apple
+HOST-SUFFIX,comscoreresearch.com,Apple
+HOST,apple-finance.query.yahoo.com,Apple
+
+# Look Up
+HOST,lookup-api.apple.com,Apple
+
+# Cert
+USER-AGENT,com.apple.trustd*,Apple
+HOST,ocsp.apple.com,Apple
+HOST-SUFFIX,digicert.com,Apple
+HOST-SUFFIX,entrust.net,Apple
+HOST,ocsp.verisign.net,Apple
