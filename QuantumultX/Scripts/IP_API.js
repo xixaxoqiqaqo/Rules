@@ -47,9 +47,9 @@ if ($response.statusCode != 200) {
   var title =flags.get(obj['countryCode']) + ' '+ convert(City_ValidCheck(obj['city']));
   var subtitle = convert(ISP_ValidCheck(obj['org']));
   var ip = convert(obj['query']);
-  var description = 'ISP' +convert(obj['isp'].match(/^(\S*(\s\S*)?)/)[1])
-                    +'AS' +convert(obj['as'].match(/^(\S*)\s/)[1])
-                    +'City'  +convert(obj['city'])
-                    +'IP' +convert(obj['query'])
+  var description = '𝐈𝐒𝐏' +convert(obj['isp'].match(/^(\S*(\s\S*)?)/)[1])
+                    +'𝐀𝐒' +convert(obj['as'].match(/^(\S*)\s/)[1])
+                    +'𝐂𝐢𝐭𝐲'  +convert(obj['city'])
+                    +'𝐈𝐏' +convert(obj['query'])
                     +'𝐓𝐢𝐦𝐞𝐳𝐨𝐧𝐞' +convert(obj['timezone'])
   $done({title, subtitle, ip, description});
