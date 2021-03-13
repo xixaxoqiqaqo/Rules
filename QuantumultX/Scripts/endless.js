@@ -178,7 +178,7 @@ function init() {
 document.addEventListener("DOMContentLoaded", init);}()</script></body>`
   );
 
-  console.log('添加 tamperJS：endless.js');
+  //console.log('添加 tamperJS：endless.js');
 }
 
 $done({ body });
