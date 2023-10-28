@@ -1,0 +1,76 @@
+# > Apple Global CDN
+# App Store & iTunes Images
+HOST-SUFFIX,mzstatic.com,DIRECT
+# iOS App Store
+#USER-AGENT,com.apple.appstored*,DIRECT
+HOST,iosapps.itunes.apple.com,DIRECT
+# Mac App Store
+HOST,osxapps.itunes.apple.com,DIRECT
+# Update
+HOST,supportdownload.apple.com,DIRECT
+HOST,appldnld.apple.com,DIRECT
+HOST,swcdn.apple.com,DIRECT
+HOST,updates.cdn-apple.com,DIRECT
+HOST,updates-http.cdn-apple.com,DIRECT
+# > Apple Pay
+USER-AGENT,passd*,DIRECT
+USER-AGENT,Wallet*,DIRECT
+HOST-KEYWORD, smp-device,DIRECT
+HOST,smp-device-content.apple.com,DIRECT
+# Weather
+USER-AGENT,*WeatherFoundation*,DIRECT
+HOST-SUFFIX, weather-data.apple.com,DIRECT
+# Settings
+USER-AGENT,%E8%AE%BE%E7%BD%AE*,DIRECT
+USER-AGENT,*com.apple.mobileme.fmip1,DIRECT
+USER-AGENT,FindMyFriends*,DIRECT
+USER-AGENT,FindMyiPhone*,DIRECT
+USER-AGENT,FMDClient* ,DIRECT
+USER-AGENT,FMFD*,DIRECT
+USER-AGENT,fmflocatord*,DIRECT
+# Spotlight
+HOST,api.smoot.apple.cn,DIRECT
+# Hotspot captive
+HOST,captive.apple.com,DIRECT
+# Reserve
+HOST,reserve-prime.apple.com,DIRECT
+# Push
+HOST-KEYWORD, push-apple.com.akadns.net,DIRECT
+HOST-SUFFIX,push.apple.com.akadns.net,DIRECT
+HOST-SUFFIX,push.apple.com,DIRECT
+# Asset Cache Locator Service
+HOST-SUFFIX,lcdn-locator.apple.com,DIRECT
+# Caching Server Registration
+HOST-SUFFIX,lcdn-registration.apple.com,DIRECT
+# Translation
+HOST,sequoia.apple.com.com,DIRECT
+HOST,seed-sequoia.siri.apple.com,DIRECT
+
+# > Router managed
+HOST,router.asus.com,DIRECT
+HOST-SUFFIX,hiwifi.com,DIRECT
+HOST-SUFFIX,leike.cc,DIRECT
+HOST-SUFFIX,miwifi.com,DIRECT
+HOST-SUFFIX,my.router,DIRECT
+HOST-SUFFIX,p.to,DIRECT
+HOST-SUFFIX,peiluyou.com,DIRECT
+HOST-SUFFIX,phicomm.me,DIRECT
+HOST-SUFFIX,routerlogin.com,DIRECT
+HOST-SUFFIX,tendawifi.com,DIRECT
+HOST-SUFFIX,tplinkwifi.net,DIRECT
+HOST-SUFFIX,zte.home,DIRECT
+
+# > Local Area Network
+HOST-SUFFIX,local,DIRECT
+HOST-SUFFIX,localhost,DIRECT
+HOST-SUFFIX,ip6-localhost,DIRECT
+HOST-SUFFIX,ip6-loopback,DIRECT
+IP-CIDR,192.168.0.0/16,DIRECT
+IP-CIDR,10.0.0.0/8,DIRECT
+IP-CIDR,172.16.0.0/12,DIRECT
+IP-CIDR,127.0.0.0/8,DIRECT
+IP-CIDR,100.64.0.0/10,DIRECT
+IP6-CIDR,::1/128,DIRECT
+IP6-CIDR,fc00::/7,DIRECT
+IP6-CIDR,fe80::/10,DIRECT
+IP6-CIDR,fd00::/8,DIRECT

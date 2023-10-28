@@ -1,0 +1,134 @@
+# personal
+host-suffix, yuhuage.biz, proxy
+
+# amazon
+host-suffix, amazonlightsail.com, proxy
+host-suffix, awsstatic.com, proxy
+host, amazonwebservicesinc.tt.omtrdc.net, proxy
+host-suffix, amazon.co.jp, proxy
+host-suffix, amazon.com, proxy
+host-suffix, amazonaws.com, proxy
+host-suffix, media-amazon.com, proxy
+
+# bandwagon
+host-suffix, bwh1.net, proxy
+host-suffix, bwh88.net, proxy
+host-suffix, bandwagonhost.com, proxy
+host-suffix, justmysocks.net, proxy
+
+# bbc
+host-keyword, uk-live, proxy
+host-suffix, bbc.co, proxy
+host-suffix, bbc.com, proxy
+host-suffix, bbc.co.uk, proxy
+host-suffix, bcc.com.tw, proxy
+
+# discord
+host-suffix, discord.co, proxy
+host-suffix, discord.com, proxy
+host-suffix, discord.gg, proxy
+host-suffix, discord.media, proxy
+host-suffix, discordapp.com, proxy
+host-suffix, discordapp.net, proxy
+
+# facebook
+host-suffix, cdninstagram.com, proxy
+host-suffix, facebook.com, proxy
+host-suffix, facebook.net, proxy
+host-suffix, fb.com, proxy
+host-suffix, fb.me, proxy
+host-suffix, fbcdn.net, proxy
+host-suffix, ig.me, proxy
+host-suffix, instagram.com, proxy
+host-suffix, oculus.com, proxy
+host-suffix, oculuscdn.com, proxy
+
+# loader
+host-suffix, loader.to, proxy
+host-suffix, googuu.xyz, proxy
+
+# heroku
+host-suffix, heroku.com, proxy
+host-suffix, herokuapp.com, proxy
+host-suffix, herokucdn.com, proxy
+
+# instagram mirror
+host-suffix, pixwox.com, proxy
+host-suffix, imginn.com, proxy
+
+# imdb
+host-suffix, imdb.com, proxy
+host-suffix, imdb.to, proxy
+host-suffix, media-imdb.com, proxy
+
+# imgur
+host-suffix, imgur.com, proxy
+host-suffix, imgurinc.com, proxy
+
+# jquery
+host-suffix, jquery.com, proxy
+host-suffix, jquerymobile.com, proxy
+host-suffix, jqueryui.com, proxy
+
+# pixiv
+host-suffix, pixiv.net, proxy
+host-suffix, pixiv.org, proxy
+host-suffix, pximg.net, proxy
+
+# reddit
+host-suffix, redd.it, proxy
+host-suffix, reddit.com, proxy
+host-suffix, redditmedia.com, proxy
+
+# short url
+host-suffix, tinyurl.com, proxy
+host-suffix, bit.ly, proxy
+host-suffix, ift.tt, proxy
+
+# wikipedia
+host-suffix, wikileaks.org, proxy
+host-suffix, wikimapia.org, proxy
+host-suffix, wikimedia.org, proxy
+host-suffix, wikinews.org, proxy
+host-suffix, wikipedia.org, proxy
+host-suffix, wikiquote.org, proxy
+
+# blocked_misc
+host-suffix, 500px.com, proxy
+host-suffix, 500px.org, proxy
+host-suffix, 500px.net, proxy
+host-suffix, akamai.net, proxy
+host-suffix, duckduckgo.com, proxy
+host-suffix, dribbble.com, proxy
+host-suffix, feedx.net, proxy
+host-suffix, flaticon.com, proxy
+host-suffix, gov.tw, proxy
+host-suffix, gillmeister-software.com, proxy
+host-suffix, greasyfork.org, proxy
+host-suffix, icons8.com, proxy
+host-suffix, joydeepdeb.com, proxy
+host-suffix, limbopro.com, proxy
+host-suffix, medium.com, proxy
+host-suffix, oxlife.co, proxy
+host-suffix, ptt.cc, proxy
+host-suffix, remove.bg, proxy
+host-suffix, routinehub.co, proxy
+host-suffix, sleazyfork.org, proxy
+host-suffix, t66y.com, proxy
+host-suffix, tumblr.com, proxy
+host-suffix, url-encode-decode.com, proxy
+host-suffix, unsplash.com, proxy
+host-suffix, v2ex.com, proxy
+host-suffix, v2ex.co, proxy
+host-suffix, vimeo.com, proxy
+host-suffix, x-art.com, proxy
+host-suffix, xvideos.com, proxy
+host-suffix, xvideos-cdn.com, proxy
+host-suffix, yahoo.com, proxy
+host-suffix, yandex.ru, proxy
+host-suffix, ycombinator.com, proxy
+host-suffix, you-get.org, proxy
+host-suffix, zaobao.com, proxy
+host-suffix, zaobao.com.sg, proxy
+host-suffix, zb.com, proxy
+host, docs.rsshub.app, proxy
