@@ -1,0 +1,7 @@
+# NAME: Mail
+# > ProtonMail
+HOST-KEYWORD,protonmail,Mail
+HOST-SUFFIX,protonmail.com,Mail
+HOST-SUFFIX,protonstatus.com,Mail
+HOST-SUFFIX,proton.me,Mail
+HOST-SUFFIX,pm.me,Mail
