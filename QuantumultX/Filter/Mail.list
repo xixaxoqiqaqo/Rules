@@ -1,5 +1,8 @@
-# NAME: Mail
-# > ProtonMail
+# >> Mail
+# > Riseup
+HOST-KEYWORD,riseup,Mail
+# > Proton
+HOST-KEYWORD,proton,Mail
 HOST-KEYWORD,protonmail,Mail
 HOST-SUFFIX,protonmail.com,Mail
 HOST-SUFFIX,protonstatus.com,Mail
