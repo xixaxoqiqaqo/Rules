@@ -1,6 +1,6 @@
 {
 "name":"Airport Icon", 
-"description":"By xixaxoqiqaqo", 
+"description":"Desing By xixaxoqiqaqo", 
 "icons":
 [	
 	{"name":"AmyTelecom", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/AmyTelecom.png"},
@@ -19,6 +19,5 @@
 	{"name":"SSPi", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/SSPi.png"},
 	{"name":"TAG", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/TAG.png"},
 	{"name":"Titan", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/Titan.png"}
-       #{"name":"WestData", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/WestData.png"}
 ]
 }
