@@ -5,6 +5,7 @@
 [	
 	{"name":"AmyTelecom", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/AmyTelecom.png"},
 	{"name":"Anyland", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/Anyland.png"},
+	{"name":"Bitz", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/Bitz.png"},
 	{"name":"CNIX", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/CNIX.png"},
 	{"name":"CreamData", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/CreamData.png"},
 	{"name":"DlerCloud", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/Dler.png"},
@@ -17,7 +18,7 @@
 	{"name":"NFcloud", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/NFcloud.png"},
 	{"name":"SSPi", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/SSPi.png"},
 	{"name":"TAG", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/TAG.png"},
-	{"name":"Titan", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/Titan.png"},
-	{"name":"WestData", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/WestData.png"}
+	{"name":"Titan", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/Titan.png"}
+       #{"name":"WestData", "url":"https://raw.githubusercontent.com/xixaxoqiqaqo/Rules/master/QuantumultX/IconSet/WestData.png"}
 ]
 }
