@@ -1,10 +1,3 @@
-# > Personal
-host-keyword, ddys., direct
-host-keyword, www.bdys, direct
-host-keyword, www.zxzj, direct
-host-suffix, siguyy.cc, direct
-host, jx.playerjy.com, direct
-
 # > Alibaba
 user-agent, %E4%BC%98%E9%85%B7*, direct
 host-suffix, alibaba.com, direct
@@ -56,7 +49,7 @@ host-suffix, udache.com, direct
 host-suffix, hitv.com, direct
 host-suffix, mgtv.com, direct
 
-# > iQiyi
+# > iQIYI
 host-suffix, iqiyi.com, direct
 host-suffix, iqiyipic.com, direct
 host-suffix, 71.am, direct
@@ -136,9 +129,59 @@ host-suffix, tencent.com, direct
 host-suffix, tencent-cloud.net, direct
 host-suffix, tenpay.com, direct
 host-suffix, wechat.com, direct
-host,file-igamecj.akamaized.net, direct
-ip-cidr, 182.254.116.0/24, direct
-ip-cidr, 203.205.254.0/23, direct
+ip-cidr, 101.32.104.4/32, direct
+ip-cidr, 101.32.104.41/32, direct
+ip-cidr, 101.32.104.56/32, direct
+ip-cidr, 101.32.118.25/32, direct
+ip-cidr, 101.32.133.16/32, direct
+ip-cidr, 101.32.133.209/32, direct
+ip-cidr, 101.32.133.53/32, direct
+ip-cidr, 129.226.107.244/32, direct
+ip-cidr, 129.226.3.47/32, direct
+ip-cidr, 162.62.163.63/32, direct
+
+# > ZiJie
+host-suffix, amemv.com,DIRECT
+host-suffix, ixigua.com,DIRECT
+host-suffix, ixiguavideo.com,DIRECT
+host-suffix, pstatp.com,DIRECT
+host-suffix, snssdk.com,DIRECT
+host-suffix, toutiao.com,DIRECT
+host-keyword, ecombdapi, direct
+host-keyword, zjurl, direct
+host-keyword, douyinstatic, direct
+host-keyword, zijieapi, direct
+host-keyword, douyin, direct
+host-keyword, douyinvod, direct
+host-keyword, zjcdn, direct
+host-keyword, douyinpic, direct
+host-keyword, toutiao, direct
+host, aweme.snssdk.com, direct
+host, ecomuser.snssdk.com, direct
+host, efe.snssdk.com, direct
+host, frontier.snssdk.com, direct
+host, f-cashloan.snssdk.com, direct
+host, f-cpay.snssdk.com, direct
+host, gurd.snssdk.com, direct
+host, ichannel.snssdk.com, direct
+host, i-hl.snssdk.com, direct
+host, lf-hl.snssdk.com, direct
+host, novel.snssdk.com, direct
+host, pigeon.snssdk.com, direct
+host, tnc3-alisc1.snssdk.com, direct
+host, tnc3-aliec2.snssdk.com, direct
+host, tos-d-ct-hl.snssdk.com, direct
+host, tos-d-ct-lf.snssdk.com, direct
+host, tos-d-lfct-lq.snssdk.com, direct
+host, tos-d-x-hl.snssdk.com, direct
+host, tos-d-x-lf.snssdk.com, direct
+host, tos-hl-x.snssdk.com, direct
+host, tos-lf-x.snssdk.com, direct
+host, tp-pay.snssdk.com, direct
+host, video-cn.snssdk.com, direct
+host, video-edge-yz.snssdk.com, direct
+host, vcl-brain.snssdk.com, direct
+host, xxbg.snssdk.com, direct
 
 # > unblock_misc
 host-suffix, cn, direct
