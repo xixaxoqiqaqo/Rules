@@ -26,7 +26,7 @@ host-suffix,github.dev,Github
 host-suffix,githubapp.com,Github
 host-suffix,githubpreview.dev,Github
 
-# >> Github CDN
+# > Github CDN
 host-suffix,github-atom-io-herokuapp-com.freetls.fastly.net,Github
 host-suffix,github-avatars.oss-cn-hongkong.aliyuncs.com,Github
 host-suffix,github-cloud.s3.amazonaws.com,Github
