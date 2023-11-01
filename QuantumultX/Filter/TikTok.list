@@ -1,17 +1,22 @@
 # > TikTok
-USER-AGENT,TikTok*,TikTok
-HOST-KEYWORD,-tiktokcdn-com,TikTok
-HOST,p16-tiktokcdn-com.akamaized.net,TikTok
-HOST-SUFFIX,amemv.com,TikTok
-HOST-SUFFIX,byteoversea.com,TikTok
-HOST-SUFFIX,ibytedtos.com,TikTok
-HOST-SUFFIX,ibyteimg.com,TikTok
-HOST-SUFFIX,ipstatp.com,TikTok
-HOST-SUFFIX,muscdn.com,TikTok
-HOST-SUFFIX,musical.ly,TikTok
-HOST-SUFFIX,sgpstatp.com,TikTok
-HOST-SUFFIX,snssdk.com,TikTok
-HOST-SUFFIX,tik-tokapi.com,TikTok
-HOST-SUFFIX,tiktok.com,TikTok
-HOST-SUFFIX,tiktokcdn.com,TikTok
-HOST-SUFFIX,tiktokv.com,TikTok
+ip-asn, 138699, TikTok
+ip-asn, 396986, TikTok
+host, p16-tiktokcdn-com.akamaized.net, TikTok
+host-suffix, bytedapm.com, TikTok
+host-suffix, byteoversea.com, TikTok
+host-suffix, ibytedtos.com, TikTok
+host-suffix, ibyteimg.com, TikTok
+host-suffix, ipstatp.com, TikTok
+host-suffix, isnssdk.com, TikTok
+host-suffix, muscdn.com, TikTok
+host-suffix, musical.ly, TikTok
+host-suffix, sgpstatp.com, TikTok
+host-suffix, snssdk.com, TikTok
+host-suffix, tik-tokapi.com, TikTok
+host-suffix, tiktok.com, TikTok
+host-suffix, tiktokcdn.com, TikTok
+host-suffix, tiktokv.com, TikTok
+host-suffix, ttwstatic.com, TikTok
+host-suffix, musical.ly, TikTok
+host-keyword, .tiktok, TikTok
+user-agent, TikTok*, TikTok
