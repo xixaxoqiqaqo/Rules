@@ -1,4 +1,4 @@
-# > Alibaba
+# Alibaba
 user-agent, %E4%BC%98%E9%85%B7*, direct
 host-suffix, alibaba.com, direct
 host-suffix, alibabausercontent.com, direct
@@ -18,7 +18,7 @@ host-suffix, youku.com, direct
 host-suffix, xiami.com, direct
 host-suffix, xiami.net, direct
 
-# > Baidu
+# Baidu
 host-suffix, baidu.com, direct
 host-suffix, baidubcr.com, direct
 host-suffix, baidupan.com, direct
@@ -27,7 +27,7 @@ host-suffix, bdimg.com, direct
 host-suffix, bdstatic.com, direct
 host-suffix, yunjiasu-cdn.net, direct
 
-# > BiliBili
+# BiliBili
 host-suffix, acgvideo.com, direct
 host-suffix, biliapi.com, direct
 host-suffix, biliapi.net, direct
@@ -35,48 +35,48 @@ host-suffix, bilibili.com, direct
 host-suffix, bilibili.tv, direct
 host-suffix, hdslb.com, direct
 
-# > CCTV
+# CCTV
 host-suffix, cctv.com, direct
 host-suffix, cctvpic.com, direct
 host-suffix, livechina.com, direct
 
-# > DiDi
+# DiDi
 host-suffix, didialift.com, direct
 host-suffix, didiglobal.com, direct
 host-suffix, udache.com, direct
 
-# > HunanTV
+# HunanTV
 host-suffix, hitv.com, direct
 host-suffix, mgtv.com, direct
 
-# > iQIYI
+# iQIYI
 host-suffix, iqiyi.com, direct
 host-suffix, iqiyipic.com, direct
 host-suffix, 71.am, direct
 
-# > JD
+# JD
 host-suffix, jd.com, direct
 host-suffix, jd.hk, direct
 host-suffix, jdpay.com, direct
 host-suffix, 360buyimg.com, direct
 
-# > Kingsoft
+# Kingsoft
 host-suffix, iciba.com, direct
 host-suffix, ksosoft.com, direct
 
-# > Meitu
+# Meitu
 host-suffix, meitu.com, direct
 host-suffix, meitudata.com, direct
 host-suffix, meitustat.com, direct
 host-suffix, meipai.com, direct
 
-# > Meituan
+# Meituan
 host-suffix, dianping.com, direct
 host-suffix, dpfile.com, direct
 host-suffix, meituan.com, direct
 host-suffix, meituan.net, direct
 
-# > MI
+# MI
 host-suffix, duokan.com, direct
 host-suffix, mi.com, direct
 host-suffix, mi-img.com, direct
@@ -85,7 +85,7 @@ host-suffix, miwifi.com, direct
 host-suffix, xiaomi.com, direct
 host-suffix, xiaomi.net, direct
 
-# > NetEase
+# NetEase
 user-agent, NeteaseMusic*, direct
 user-agent, %E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*, direct
 host-suffix, 163.com, direct
@@ -97,23 +97,23 @@ host-suffix, lofter.com, direct
 host-suffix, netease.com, direct
 host-suffix, ydstatic.com, direct
 
-# > Sina
+# Sina
 host-suffix, sina.com, direct
 host-suffix, weibo.com, direct
 host-suffix, weibocdn.com, direct
 
-# > Sohu
+# Sohu
 host-suffix, sohu.com, direct
 host-suffix, sohucs.com, direct
 host-suffix, sohu-inc.com, direct
 host-suffix, v-56.com, direct
 
-# > Sogo
+# Sogo
 host-suffix, sogo.com, direct
 host-suffix, sogou.com, direct
 host-suffix, sogoucdn.com, direct
 
-# > Tencent
+# Tencent
 user-agent, MicroMessenger*, direct
 user-agent, WeChat*, direct
 user-agent, %E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*, direct
@@ -140,13 +140,13 @@ ip-cidr, 129.226.107.244/32, direct
 ip-cidr, 129.226.3.47/32, direct
 ip-cidr, 162.62.163.63/32, direct
 
-# > ZiJie
-host-suffix, amemv.com,DIRECT
-host-suffix, ixigua.com,DIRECT
-host-suffix, ixiguavideo.com,DIRECT
-host-suffix, pstatp.com,DIRECT
-host-suffix, snssdk.com,DIRECT
-host-suffix, toutiao.com,DIRECT
+# ZiJie
+host-suffix, amemv.com, direct
+host-suffix, ixigua.com, direct
+host-suffix, ixiguavideo.com, direct
+host-suffix, pstatp.com, direct
+host-suffix, snssdk.com, direct
+host-suffix, toutiao.com, direct
 host-keyword, ecombdapi, direct
 host-keyword, zjurl, direct
 host-keyword, douyinstatic, direct
@@ -183,7 +183,7 @@ host, video-edge-yz.snssdk.com, direct
 host, vcl-brain.snssdk.com, direct
 host, xxbg.snssdk.com, direct
 
-# > unblock_misc
+# unblock_misc
 host-suffix, cn, direct
 host-suffix, 115.com, direct
 host-suffix, abchina.com, direct
