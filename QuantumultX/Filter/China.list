@@ -1,39 +1,73 @@
 # Alibaba
 user-agent, %E4%BC%98%E9%85%B7*, direct
-host-suffix, alibaba.com, direct
-host-suffix, alibabausercontent.com, direct
-host-suffix, alicdn.com, direct
-host-suffix, alikunlun.com, direct
-host-suffix, alipay.com, direct
-host-suffix, amap.com, direct
-host-suffix, autonavi.com, direct
-host-suffix, dingtalk.com, direct
-host-suffix, mxhichina.com, direct
-host-suffix, soku.com, direct
-host-suffix, taobao.com, direct
-host-suffix, tmall.com, direct
-host-suffix, tmall.hk, direct
-host-suffix, ykimg.com, direct
-host-suffix, youku.com, direct
-host-suffix, xiami.com, direct
-host-suffix, xiami.net, direct
+HOST-SUFFIX, 1688.com, China
+HOST-SUFFIX, aliapp.org, China
+HOST-SUFFIX, alibaba.com, China
+HOST-SUFFIX, alibabacloud.com, China
+HOST-SUFFIX, alibabausercontent.com, China
+HOST-SUFFIX, alicdn.com, China
+HOST-SUFFIX, alicloudccp.com, China
+HOST-SUFFIX, aliexpress.com, China
+HOST-SUFFIX, aliimg.com, China
+HOST-SUFFIX, alikunlun.com, China
+HOST-SUFFIX, alipay.com, China
+HOST-SUFFIX, alipayobjects.com, China
+HOST-SUFFIX, alisoft.com, China
+HOST-SUFFIX, aliyun.com, China
+HOST-SUFFIX, aliyuncdn.com, China
+HOST-SUFFIX, aliyuncs.com, China
+HOST-SUFFIX, aliyundrive.com, China
+HOST-SUFFIX, amap.com, China
+HOST-SUFFIX, autonavi.com, China
+HOST-SUFFIX, cainiao.com, China
+HOST-SUFFIX, dingtalk.com, China
+HOST-SUFFIX, ele.me, China
+HOST-SUFFIX, hichina.com, China
+HOST-SUFFIX, mmstat.com, China
+HOST-SUFFIX, mxhichina.com, China
+HOST-SUFFIX, soku.com, China
+HOST-SUFFIX, taobao.com, China
+HOST-SUFFIX, taobaocdn.com, China
+HOST-SUFFIX, tbcache.com, China
+HOST-SUFFIX, tbcdn.com, China
+HOST-SUFFIX, tmall.com, China
+HOST-SUFFIX, tmall.hk, China
+HOST-SUFFIX, ucweb.com, China
+HOST-SUFFIX, xiami.com, China
+HOST-SUFFIX, xiami.net, China
+HOST-SUFFIX, ykimg.com, China
+HOST-SUFFIX, youku.com, China
 
 # Baidu
-host-suffix, baidu.com, direct
-host-suffix, baidubcr.com, direct
-host-suffix, baidupan.com, direct
-host-suffix, baidupcs.com, direct
-host-suffix, bdimg.com, direct
-host-suffix, bdstatic.com, direct
-host-suffix, yunjiasu-cdn.net, direct
+HOST-SUFFIX, baidu.com, China
+HOST-SUFFIX, baidubcr.com, China
+HOST-SUFFIX, baidupcs.com, China
+HOST-SUFFIX, baidustatic.com, China
+HOST-SUFFIX, bcebos.com, China
+HOST-SUFFIX, bdimg.com, China
+HOST-SUFFIX, bdstatic.com, China
+HOST-SUFFIX, bdurl.net, China
+HOST-SUFFIX, hao123.com, China
+HOST-SUFFIX, hao123img.com, China
+HOST-SUFFIX, jomodns.com, China
+HOST-SUFFIX, yunjiasu-cdn.net, China
 
 # BiliBili
-host-suffix, acgvideo.com, direct
-host-suffix, biliapi.com, direct
-host-suffix, biliapi.net, direct
-host-suffix, bilibili.com, direct
-host-suffix, bilibili.tv, direct
-host-suffix, hdslb.com, direct
+HOST-SUFFIX, acg.tv, China
+HOST-SUFFIX, acgvideo.com, China
+HOST-SUFFIX, b23.tv, China
+HOST-SUFFIX, bigfun.cn, China
+HOST-SUFFIX, bigfunapp.cn, China
+HOST-SUFFIX, biliapi.com, China
+HOST-SUFFIX, biliapi.net, China
+HOST-SUFFIX, bilibili.com, China
+HOST-SUFFIX, biligame.com, China
+HOST-SUFFIX, biligame.net, China
+HOST-SUFFIX, bilivideo.com, China
+HOST-SUFFIX, bilivideo.cn, China
+HOST-SUFFIX, hdslb.com, China
+HOST-SUFFIX, im9.com, China
+HOST-SUFFIX, smtcdns.net, China
 
 # CCTV
 host-suffix, cctv.com, direct
@@ -141,21 +175,18 @@ ip-cidr, 129.226.3.47/32, direct
 ip-cidr, 162.62.163.63/32, direct
 
 # ZiJie
-host-suffix, amemv.com, direct
-host-suffix, ixigua.com, direct
-host-suffix, ixiguavideo.com, direct
-host-suffix, pstatp.com, direct
-host-suffix, snssdk.com, direct
-host-suffix, toutiao.com, direct
-host-keyword, ecombdapi, direct
-host-keyword, zjurl, direct
-host-keyword, douyinstatic, direct
-host-keyword, zijieapi, direct
-host-keyword, douyin, direct
-host-keyword, douyinvod, direct
-host-keyword, zjcdn, direct
-host-keyword, douyinpic, direct
-host-keyword, toutiao, direct
+HOST-SUFFIX,365yg.com, Chain
+HOST-SUFFIX,amemv.com,DouYin
+HOST-SUFFIX,douyincdn.com,DouYin
+HOST-SUFFIX,douyinpic.com,DouYin
+HOST-SUFFIX,douyinstatic.com,DouYin
+HOST-SUFFIX,douyinvod.com,DouYin
+HOST-SUFFIX,idouyinvod.com,DouYin
+HOST-SUFFIX,ixigua.com,DouYin
+HOST-SUFFIX,ixiguavideo.com,DouYin
+HOST-SUFFIX,pstatp.com,DouYin
+HOST-SUFFIX,snssdk.com,DouYin
+HOST-SUFFIX,toutiao.com,DouYin
 host, aweme.snssdk.com, direct
 host, ecomuser.snssdk.com, direct
 host, efe.snssdk.com, direct
