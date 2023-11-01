@@ -1,6 +1,3 @@
-# personal
-host-suffix, yuhuage.biz, proxy
-
 # amazon
 host-suffix, amazonlightsail.com, proxy
 host-suffix, awsstatic.com, proxy
@@ -31,22 +28,6 @@ host-suffix, discord.media, proxy
 host-suffix, discordapp.com, proxy
 host-suffix, discordapp.net, proxy
 
-# facebook
-host-suffix, cdninstagram.com, proxy
-host-suffix, facebook.com, proxy
-host-suffix, facebook.net, proxy
-host-suffix, fb.com, proxy
-host-suffix, fb.me, proxy
-host-suffix, fbcdn.net, proxy
-host-suffix, ig.me, proxy
-host-suffix, instagram.com, proxy
-host-suffix, oculus.com, proxy
-host-suffix, oculuscdn.com, proxy
-
-# loader
-host-suffix, loader.to, proxy
-host-suffix, googuu.xyz, proxy
-
 # heroku
 host-suffix, heroku.com, proxy
 host-suffix, herokuapp.com, proxy
@@ -70,15 +51,114 @@ host-suffix, jquery.com, proxy
 host-suffix, jquerymobile.com, proxy
 host-suffix, jqueryui.com, proxy
 
+# meta
+ip-asn, 32934, proxy
+host-suffix, atscaleconference.com, proxy
+host-suffix, botorch.org, proxy
+host-suffix, buck.build, proxy
+host-suffix, buckbuild.com, proxy
+host-suffix, careersatfb.com, proxy
+host-suffix, componentkit.org, proxy
+host-suffix, crowdtangle.com, proxy
+host-suffix, draftjs.org, proxy
+host-suffix, facebook-covid-19.com, proxy
+host-suffix, facebook.br, proxy
+host-suffix, facebook.design, proxy
+host-suffix, facebook.net, proxy
+host-suffix, facebookbrand.com, proxy
+host-suffix, facebookcanadianelectionintegrityinitiative.com, proxy
+host-suffix, facebookcoronavirus.com, proxy
+host-suffix, facebookquotes4u.com, proxy
+host-suffix, facebooksuppliers.com, proxy
+host-suffix, facebookswagemea.com, proxy
+host-suffix, facebookswagstore.com, proxy
+host-suffix, fasttext.cc, proxy
+host-suffix, fb.careers, proxy
+host-suffix, fbbmarket.com, proxy
+host-suffix, fbboostyourbusiness.com, proxy
+host-suffix, fbcdn-a.akamaihd.net, proxy
+host-suffix, fbf8.com, proxy
+host-suffix, fbidb.io, proxy
+host-suffix, fbinfer.com, proxy
+host-suffix, fblitho.com, proxy
+host-suffix, fbredex.com, proxy
+host-suffix, fbreg.com, proxy
+host-suffix, fbrell.com, proxy
+host-suffix, fbrpms.com, proxy
+host-suffix, fbsupport-covid.net, proxy
+host-suffix, fbthirdpartypixel.net, proxy
+host-suffix, fbthirdpartypixel.org, proxy
+host-suffix, flow.dev, proxy
+host-suffix, flow.org, proxy
+host-suffix, flowtype.org, proxy
+host-suffix, fna.fbcdn.net, proxy
+host-suffix, friendbook.info, proxy
+host-suffix, hacklang.org, proxy
+host-suffix, hhvm.com, proxy
+host-suffix, howtohackfacebook-account.com, proxy
+host-suffix, igcdn.com, proxy
+host-suffix, igsonar.com, proxy
+host-suffix, igtv.com, proxy
+host-suffix, instagram-brand.com, proxy
+host-suffix, instagram-engineering.com, proxy
+host-suffix, ip6.static.sl-reverse.com, proxy
+host-suffix, makeitopen.com, proxy
+host-suffix, ocul.us, proxy
+host-suffix, oculus3d.com, proxy
+host-suffix, oculuscdn.com, proxy
+host-suffix, oculusconnect.com, proxy
+host-suffix, opengraphprotocol.com, proxy
+host-suffix, opengraphprotocol.org, proxy
+host-suffix, pyrobot.org, proxy
+host-suffix, reachtheworldonfacebook.com, proxy
+host-suffix, react.com, proxy
+host-suffix, reactjs.com, proxy
+host-suffix, reactjs.org, proxy
+host-suffix, recoiljs.org, proxy
+host-suffix, rocksdb.org, proxy
+host-suffix, terragraph.com, proxy
+host-suffix, whatsapp.biz, proxy
+host-suffix, whatsapp.cc, proxy
+host-suffix, whatsapp.info, proxy
+host-suffix, whatsapp.org, proxy
+host-suffix, whatsapp.tv, proxy
+host-suffix, whatsappbrand.com, proxy
+host-suffix, yogalayout.com, proxy
+ip-cidr, 3.123.36.126/32, proxy
+ip-cidr, 35.157.215.84/32, proxy
+ip-cidr, 35.157.217.255/32, proxy
+ip-cidr, 52.58.209.134/32, proxy
+ip-cidr, 54.162.243.80/32, proxy
+ip-cidr, 54.173.34.141/32, proxy
+ip-cidr, 54.235.23.242/32, proxy
+ip-cidr, 54.93.124.31/32, proxy
+ip-cidr, 69.171.224.0/19, proxy
+ip-cidr, 108.168.176.192/26, proxy
+ip-cidr, 108.168.177.0/27, proxy
+ip-cidr, 108.168.180.96/27, proxy
+ip-cidr, 108.168.254.65/32, proxy
+ip-cidr, 108.168.255.224/32, proxy
+ip-cidr, 108.168.255.227/32, proxy
+ip-cidr, 108.177.8.0/21, proxy
+ip-cidr, 169.45.248.118/32, proxy
+
 # pixiv
 host-suffix, pixiv.net, proxy
 host-suffix, pixiv.org, proxy
 host-suffix, pximg.net, proxy
 
+# pixnet
+host-suffix, pixplug.in, proxy
+host-suffix, pixnet.cc, proxy
+host-suffix, pixfs.net, proxy
+host-suffix, pixnet.net, proxy
+host-suffix, pimg.tw, proxy
+
 # reddit
 host-suffix, redd.it, proxy
 host-suffix, reddit.com, proxy
 host-suffix, redditmedia.com, proxy
+host-suffix, redditstatic.com, proxy
 
 # short url
 host-suffix, tinyurl.com, proxy
@@ -106,12 +186,14 @@ host-suffix, gov.tw, proxy
 host-suffix, gillmeister-software.com, proxy
 host-suffix, greasyfork.org, proxy
 host-suffix, icons8.com, proxy
+host-suffix, imageresizer.com, proxy
 host-suffix, joydeepdeb.com, proxy
 host-suffix, limbopro.com, proxy
 host-suffix, medium.com, proxy
 host-suffix, oxlife.co, proxy
 host-suffix, ptt.cc, proxy
 host-suffix, remove.bg, proxy
+host-suffix, retoucher.online, proxy
 host-suffix, routinehub.co, proxy
 host-suffix, sleazyfork.org, proxy
 host-suffix, t66y.com, proxy
@@ -121,13 +203,11 @@ host-suffix, unsplash.com, proxy
 host-suffix, v2ex.com, proxy
 host-suffix, v2ex.co, proxy
 host-suffix, vimeo.com, proxy
-host-suffix, x-art.com, proxy
-host-suffix, xvideos.com, proxy
-host-suffix, xvideos-cdn.com, proxy
+host-suffix, xteko.com, proxy
 host-suffix, yahoo.com, proxy
 host-suffix, yandex.ru, proxy
 host-suffix, ycombinator.com, proxy
-host-suffix, you-get.org, proxy
+host-suffix, yuhuage.win, proxy
 host-suffix, zaobao.com, proxy
 host-suffix, zaobao.com.sg, proxy
 host-suffix, zb.com, proxy
