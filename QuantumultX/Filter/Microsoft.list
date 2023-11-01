@@ -1,9 +1,9 @@
-ip-asn, 3598, United States
-ip-asn, 8068, United States
-host-suffix, msftauth.net, United States
-
+# > Microsoft
+ip-asn, 3598, Microsoft
+ip-asn, 8068, Microsoft
+host-suffix, msftauth.net, Microsoft
 ip-asn, 8075, Microsoft
-ip-asn, 35106, United Kingdom
+ip-asn, 35106, Microsoft
 host, api-extractor.com, Microsoft
 host, catalog.gamepass.com, Microsoft
 host, iecvlist.microsoft.com, Microsoft
