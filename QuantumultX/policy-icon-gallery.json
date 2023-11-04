@@ -3,7 +3,7 @@
 "description":"Desing By xixaxoqiqaqo", 
 "icons":
 [	
-	{"name":"Adblock", "url":"https:\/\/raw.githubusercontent.com\/xixaxoqiqaqo\/Rules/master\/QuantumultX\/IconSet\/ads.png"},
+	{"name":"Reject", "url":"https:\/\/raw.githubusercontent.com\/xixaxoqiqaqo\/Rules/master\/QuantumultX\/IconSet\/ads.png"},
 	{"name":"Direct", "url":"https:\/\/raw.githubusercontent.com\/xixaxoqiqaqo\/Rules/master\/QuantumultX\/IconSet\/direct.png"},
 	{"name":"Final", "url":"https:\/\/raw.githubusercontent.com\/xixaxoqiqaqo\/Rules/master\/QuantumultX\/IconSet\/final.png"},
 	{"name":"Mail", "url":"https:\/\/raw.githubusercontent.com\/xixaxoqiqaqo\/Rules/master\/QuantumultX\/IconSet\/Mail.png"},
@@ -18,7 +18,7 @@
 	{"name":"YouTube", "url":"https:\/\/raw.githubusercontent.com\/xixaxoqiqaqo\/Rules/master\/QuantumultX\/IconSet\/YouTube.png"},
 
 	{"name":"Apple", "url":"https:\/\/raw.githubusercontent.com\/xixaxoqiqaqo\/Rules/master\/QuantumultX\/IconSet\/Apple.png"},
-	{"name":"ByteDance", "url":"https:\/\/raw.githubusercontent.com\/xixaxoqiqaqo\/Rules/master\/QuantumultX\/IconSet\/ByteDance.png"},
+	{"name":"GitHub", "url":"https:\/\/raw.githubusercontent.com\/xixaxoqiqaqo\/Rules/master\/QuantumultX\/IconSet\/github.png"},
 	{"name":"Google", "url":"https:\/\/raw.githubusercontent.com\/xixaxoqiqaqo\/Rules/master\/QuantumultX\/IconSet\/Google.png"},
 	{"name":"OpenAI", "url":"https:\/\/raw.githubusercontent.com\/xixaxoqiqaqo\/Rules/master\/QuantumultX\/IconSet\/OpenAI.png"},
 	{"name":"Paypal", "url":"https:\/\/raw.githubusercontent.com\/xixaxoqiqaqo\/Rules/master\/QuantumultX\/IconSet\/PayPal.png"},
