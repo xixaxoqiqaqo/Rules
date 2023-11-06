@@ -1,51 +1,9 @@
-# akamai
-host-suffix, ak1.net, proxy
-host-suffix, aka-ai.com, proxy
-host-suffix, aka-ai.net, proxy
-host-suffix, akacrypto.net, proxy
-host-suffix, akadeem.net, proxy
-host-suffix, akadns.com, proxy
-host-suffix, akadns.net, proxy
-host-suffix, akadns6.net, proxy
-host-suffix, akaeai.com, proxy
-host-suffix, akafms.net, proxy
-host-suffix, akagtm.org, proxy
-host-suffix, akahost.net, proxy
-host-suffix, akaint.net, proxy
-host-suffix, akam.net, proxy
-host-suffix, akamaa.com, proxy
-host-suffix, akamah.com, proxy
-host-suffix, akamak.com, proxy
-host-suffix, akamam.com, proxy
-host-suffix, akamai.co.kr, proxy
-host-suffix, akamai.com, proxy
-host-suffix, akamai.net, proxy
-host-suffix, akamci.com, proxy
-host-suffix, akami.com, proxy
-host-suffix, akami.net, proxy
-host-suffix, akamii.com, proxy
-host-suffix, akamqi.com, proxy
-host-suffix, akastream.com, proxy
-host-suffix, akastream.net, proxy
-host-suffix, akatns.net, proxy
-host-suffix, iamakamai.com, proxy
-host-suffix, iamakamai.net, proxy
-host-suffix, soasta-dswb.com, proxy
-host-suffix, srtcdn.net, proxy
-host-keyword, .akamai, proxy
-
-# bandwagon
-host-suffix, bwh1.net, proxy
-host-suffix, bwh88.net, proxy
-host-suffix, bandwagonhost.com, proxy
-host-suffix, justmysocks.net, proxy
-
-# bbc
-host-keyword, uk-live, proxy
-host-suffix, bbc.co, proxy
-host-suffix, bbc.com, proxy
-host-suffix, bbc.co.uk, proxy
-host-suffix, bcc.com.tw, proxy
+# dailymotion
+host-suffix, dai.ly, proxy
+host-suffix, dailymotion.com, proxy
+host-suffix, dm-event.net, proxy
+host-suffix, dmcdn.net, proxy
+host-suffix, dmxleo.com, proxy
 
 # discord
 host-suffix, discord.co, proxy
@@ -73,6 +31,23 @@ host-suffix, media-imdb.com, proxy
 host-suffix, imgur.io, proxy
 host-suffix, imgur.com, proxy
 host-suffix, imgurinc.com, proxy
+
+# nivod
+host-keyword, .nivod, proxy
+host-suffix, nivod.tv, proxy
+host-suffix, nivod4.tv, proxy
+host-suffix, newpppp.com, proxy
+host-suffix, biggggg.com, proxy
+host-suffix, olddddd.com, proxy
+
+# olevod
+host-suffix, olehd.com, proxy
+host-suffix, olelive.com, proxy
+host-suffix, olevod.com, proxy
+host-suffix, olevod.io, proxy
+host-suffix, olevod.tv, proxy
+host-suffix, olevodtv.com, proxy
+host-suffix, olemovienews.com, proxy
 
 # pixiv
 host-suffix, pixiv.net, proxy
