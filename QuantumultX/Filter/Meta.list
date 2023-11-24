@@ -7,7 +7,7 @@ host-suffix, careersatfb.com, Meta
 host-suffix, componentkit.org, Meta
 host-suffix, crowdtangle.com, Meta
 host-suffix, draftjs.org, Meta
-host-suffix, facebook-covid-19.com, Meta
+host-suffix, facebook.com, Meta
 host-suffix, facebook.br, Meta
 host-suffix, facebook.design, Meta
 host-suffix, facebook.net, Meta
@@ -19,7 +19,10 @@ host-suffix, facebooksuppliers.com, Meta
 host-suffix, facebookswagemea.com, Meta
 host-suffix, facebookswagstore.com, Meta
 host-suffix, fasttext.cc, Meta
+host-suffix, fb.com, Meta
+host-suffix, fb.me, Meta
 host-suffix, fb.careers, Meta
+host-suffix, fbcdn.net, Meta
 host-suffix, fbbmarket.com, Meta
 host-suffix, fbboostyourbusiness.com, Meta
 host-suffix, fbcdn-a.akamaihd.net, Meta
@@ -31,9 +34,10 @@ host-suffix, fbredex.com, Meta
 host-suffix, fbreg.com, Meta
 host-suffix, fbrell.com, Meta
 host-suffix, fbrpms.com, Meta
-host-suffix, fbsupport-covid.net, Meta
+host-suffix, fbsbx.com, Meta
 host-suffix, fbthirdpartypixel.net, Meta
 host-suffix, fbthirdpartypixel.org, Meta
+host-suffix, fbworkmail.com, Meta
 host-suffix, flow.dev, Meta
 host-suffix, flow.org, Meta
 host-suffix, flowtype.org, Meta
@@ -45,6 +49,7 @@ host-suffix, howtohackfacebook-account.com, Meta
 host-suffix, igcdn.com, Meta
 host-suffix, igsonar.com, Meta
 host-suffix, igtv.com, Meta
+host-suffix, instagram.com, Meta
 host-suffix, instagram-brand.com, Meta
 host-suffix, instagram-engineering.com, Meta
 host-suffix, ip6.static.sl-reverse.com, Meta
@@ -69,6 +74,7 @@ host-suffix, whatsapp.info, Meta
 host-suffix, whatsapp.org, Meta
 host-suffix, whatsapp.tv, Meta
 host-suffix, whatsappbrand.com, Meta
+host-keyword, facebook, Meta
 host-suffix, yogalayout.com, Meta
 ip-cidr, 3.123.36.126/32, Meta
 ip-cidr, 35.157.215.84/32, Meta
