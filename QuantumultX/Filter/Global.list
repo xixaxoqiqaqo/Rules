@@ -1,11 +1,11 @@
-# dailymotion
+# Dailymotion
 host-suffix, dai.ly, proxy
 host-suffix, dailymotion.com, proxy
 host-suffix, dm-event.net, proxy
 host-suffix, dmcdn.net, proxy
 host-suffix, dmxleo.com, proxy
 
-# discord
+# Discord
 host-suffix, discord.co, proxy
 host-suffix, discord.com, proxy
 host-suffix, discord.gg, proxy
@@ -13,26 +13,26 @@ host-suffix, discord.media, proxy
 host-suffix, discordapp.com, proxy
 host-suffix, discordapp.net, proxy
 
-# heroku
+# Heroku
 host-suffix, heroku.com, proxy
 host-suffix, herokuapp.com, proxy
 host-suffix, herokucdn.com, proxy
 
-# instagram mirror
+# Instagram mirror
 host-suffix, pixwox.com, proxy
 host-suffix, imginn.com, proxy
 
-# imdb
+# IMDb
 host-suffix, imdb.com, proxy
 host-suffix, imdb.to, proxy
 host-suffix, media-imdb.com, proxy
 
-# imgur
+# Imgur
 host-suffix, imgur.io, proxy
 host-suffix, imgur.com, proxy
 host-suffix, imgurinc.com, proxy
 
-# nivod
+# Nivod
 host-keyword, .nivod, proxy
 host-suffix, nivod.tv, proxy
 host-suffix, nivod4.tv, proxy
@@ -40,7 +40,7 @@ host-suffix, newpppp.com, proxy
 host-suffix, biggggg.com, proxy
 host-suffix, olddddd.com, proxy
 
-# olevod
+# ole
 host-suffix, olehd.com, proxy
 host-suffix, olelive.com, proxy
 host-suffix, olevod.com, proxy
@@ -48,31 +48,32 @@ host-suffix, olevod.io, proxy
 host-suffix, olevod.tv, proxy
 host-suffix, olevodtv.com, proxy
 host-suffix, olemovienews.com, proxy
+host-suffix, cdn.plyr.io, proxy
 
-# pixiv
+# Pixiv
 host-suffix, pixiv.net, proxy
 host-suffix, pixiv.org, proxy
 host-suffix, pximg.net, proxy
 
-# pixnet
+# Pixnet
 host-suffix, pixplug.in, proxy
 host-suffix, pixnet.cc, proxy
 host-suffix, pixfs.net, proxy
 host-suffix, pixnet.net, proxy
 host-suffix, pimg.tw, proxy
 
-# reddit
+# Reddit
 host-suffix, redd.it, proxy
 host-suffix, reddit.com, proxy
 host-suffix, redditmedia.com, proxy
 host-suffix, redditstatic.com, proxy
 
-# short url
+# Short url
 host-suffix, tinyurl.com, proxy
 host-suffix, bit.ly, proxy
 host-suffix, ift.tt, proxy
 
-# wikipedia
+# Wikipedia
 host-suffix, wikileaks.org, proxy
 host-suffix, wikimapia.org, proxy
 host-suffix, wikimedia.org, proxy
