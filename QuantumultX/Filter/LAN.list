@@ -2,24 +2,24 @@
 # App Store & iTunes Images
 HOST-SUFFIX,mzstatic.com,DIRECT
 # iOS App Store
-#USER-AGENT,com.apple.appstored*,DIRECT
 HOST,iosapps.itunes.apple.com,DIRECT
 # Mac App Store
 HOST,osxapps.itunes.apple.com,DIRECT
 # Update
-HOST,supportdownload.apple.com,DIRECT
+HOST-KEYWORD,appldnld.apple,DIRECT
 HOST,appldnld.apple.com,DIRECT
+HOST,supportdownload.apple.com,DIRECT
 HOST,swcdn.apple.com,DIRECT
 HOST,updates.cdn-apple.com,DIRECT
 HOST,updates-http.cdn-apple.com,DIRECT
-# > Apple Pay
+# Apple Pay
 USER-AGENT,passd*,DIRECT
 USER-AGENT,Wallet*,DIRECT
-HOST-KEYWORD, smp-device,DIRECT
+HOST-KEYWORD,smp-device,DIRECT
 HOST,smp-device-content.apple.com,DIRECT
 # Weather
 USER-AGENT,*WeatherFoundation*,DIRECT
-HOST-SUFFIX, weather-data.apple.com,DIRECT
+HOST-SUFFIX,weather-data.apple.com,DIRECT
 # Settings
 USER-AGENT,%E8%AE%BE%E7%BD%AE*,DIRECT
 USER-AGENT,*com.apple.mobileme.fmip1,DIRECT
@@ -28,6 +28,7 @@ USER-AGENT,FindMyiPhone*,DIRECT
 USER-AGENT,FMDClient* ,DIRECT
 USER-AGENT,FMFD*,DIRECT
 USER-AGENT,fmflocatord*,DIRECT
+HOST,sq-device.apple.com,DIRECT
 # Spotlight
 HOST,api.smoot.apple.cn,DIRECT
 # Hotspot captive
@@ -35,13 +36,15 @@ HOST,captive.apple.com,DIRECT
 # Reserve
 HOST,reserve-prime.apple.com,DIRECT
 # Push
-HOST-KEYWORD, push-apple.com.akadns.net,DIRECT
+HOST-KEYWORD,push-apple,DIRECT
 HOST-SUFFIX,push.apple.com.akadns.net,DIRECT
 HOST-SUFFIX,push.apple.com,DIRECT
 # Asset Cache Locator Service
 HOST-SUFFIX,lcdn-locator.apple.com,DIRECT
 # Caching Server Registration
-HOST-SUFFIX,lcdn-registration.apple.com,DIRECT
+HOST,lcdn-registration.apple.com,DIRECT
+HOST,suconfig.apple.com,DIRECT
+HOST,xp-cdn.apple.com,DIRECT
 # Translation
 HOST,sequoia.apple.com.com,DIRECT
 HOST,seed-sequoia.siri.apple.com,DIRECT
