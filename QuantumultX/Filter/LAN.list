@@ -5,6 +5,7 @@ HOST-SUFFIX,mzstatic.com,DIRECT
 HOST,iosapps.itunes.apple.com,DIRECT
 # Mac App Store
 HOST,osxapps.itunes.apple.com,DIRECT
+HOST,oscdn.apple.com,DIRECT
 # Update
 HOST-KEYWORD,appldnld.apple,DIRECT
 HOST,appldnld.apple.com,DIRECT
@@ -36,8 +37,7 @@ HOST,captive.apple.com,DIRECT
 # Reserve
 HOST,reserve-prime.apple.com,DIRECT
 # Push
-HOST-KEYWORD,push-apple,DIRECT
-HOST-SUFFIX,push.apple.com.akadns.net,DIRECT
+HOST-KEYWORD,push.apple,DIRECT
 HOST-SUFFIX,push.apple.com,DIRECT
 # Asset Cache Locator Service
 HOST-SUFFIX,lcdn-locator.apple.com,DIRECT
