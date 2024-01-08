@@ -10,7 +10,7 @@ HOST-SUFFIX,aaplimg.com,Apple
 HOST-SUFFIX,apple.co,Apple
 HOST-SUFFIX,apple.com,Apple
 HOST-SUFFIX,apple-dns.net,Apple
-#HOST-SUFFIX,cdn-apple.com,Apple
+HOST-SUFFIX,cdn-apple.com,Apple
 HOST-SUFFIX,itunes.com,Apple
 #HOST-SUFFIX,mzstatic.com,Apple
 HOST-SUFFIX,safebrowsing.apple,Apple
@@ -29,7 +29,6 @@ IP-CIDR,65.199.22.0/23,Apple
 USER-AGENT,Music*,Apple
 
 # App Store
-USER-AGENT,AppStore*,Apple
 USER-AGENT,com.apple.appstored*,Apple
 
 # Cert
