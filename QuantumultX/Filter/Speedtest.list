@@ -1,6 +1,5 @@
 # Speedtest
 USER-AGENT,SpeedTest*,Speedtest
-HOST-KEYWORD,.speed,Speedtest
-HOST-KEYWORD,speed.,Speedtest
-HOST-KEYWORD,speedtest,Speedtest
-HOST-SUFFIX,ooklaserver.net,Speedtest
+HOST-KEYWORD,speed,Speedtest
+HOST,b.cdnst.net,Speedtest
+HOST,cdn.ziffstatic.com,Speedtest
