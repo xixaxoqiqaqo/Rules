@@ -3,7 +3,7 @@
 "description":"Desing By xixaxoqiqaqo", 
 "icons":
 [	
-	{"name":"Reject", "url":"https:\/\/raw.githubusercontent.com\/xixaxoqiqaqo\/Rules/master\/QuantumultX\/IconSet\/ads.png"},
+	{"name":"AdBlock", "url":"https:\/\/raw.githubusercontent.com\/xixaxoqiqaqo\/Rules/master\/QuantumultX\/IconSet\/ads.png"},
 	{"name":"Direct", "url":"https:\/\/raw.githubusercontent.com\/xixaxoqiqaqo\/Rules/master\/QuantumultX\/IconSet\/direct.png"},
 	{"name":"Final", "url":"https:\/\/raw.githubusercontent.com\/xixaxoqiqaqo\/Rules/master\/QuantumultX\/IconSet\/final.png"},
 	{"name":"Mail", "url":"https:\/\/raw.githubusercontent.com\/xixaxoqiqaqo\/Rules/master\/QuantumultX\/IconSet\/Mail.png"},
@@ -23,7 +23,7 @@
 	{"name":"OpenAI", "url":"https:\/\/raw.githubusercontent.com\/xixaxoqiqaqo\/Rules/master\/QuantumultX\/IconSet\/OpenAI.png"},
 	{"name":"Paypal", "url":"https:\/\/raw.githubusercontent.com\/xixaxoqiqaqo\/Rules/master\/QuantumultX\/IconSet\/PayPal.png"},
 	{"name":"Speedtest", "url":"https:\/\/raw.githubusercontent.com\/xixaxoqiqaqo\/Rules/master\/QuantumultX\/IconSet\/Speedtest.png"},
-	{"name":"Telegram", "url":"https:\/\/raw.githubusercontent.com\/xixaxoqiqaqo\/Rules/master\/QuantumultX\/IconSet\/Telegram.png"},
-	{"name":"Twitter", "url":"https:\/\/raw.githubusercontent.com\/xixaxoqiqaqo\/Rules/master\/QuantumultX\/IconSet\/Twitter.png"}
+	{"name":"Spotify", "url":"https:\/\/raw.githubusercontent.com\/xixaxoqiqaqo\/Rules/master\/QuantumultX\/IconSet\/Spotify.png"},
+	{"name":"Telegram", "url":"https:\/\/raw.githubusercontent.com\/xixaxoqiqaqo\/Rules/master\/QuantumultX\/IconSet\/Telegram.png"}
 ]
 }
