@@ -13,8 +13,7 @@ HOST-WILDCARD,appleworldwidedeveloper.*.net,Apple
 # Apple Intelligence Siri and Search
 HOST-KEYWORD,apple-relay,Apple
 HOST-SUFFIX,smoot.apple.com,Apple
-HOST,guzzoni.apple.com
-,Apple
+HOST,guzzoni.apple.com,Apple
 
 # Apple Music
 USER-AGENT,Music*,Apple
