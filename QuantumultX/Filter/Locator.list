@@ -1,15 +1,9 @@
-# > Location (optional)
-USER-AGENT,FindMyFriends*,Location
-USER-AGENT,FindMyiPhone*,Location
-USER-AGENT,FMDClient*,Location
-USER-AGENT,FMFD*,Location
-USER-AGENT,fmflocatord*,Location
-# Maps
+# > Locator
+USER-AGENT,com.apple.geod*,Location
+USER-AGENT,com.apple.Maps,Location
+USER-AGENT,locationd*,Location
+USER-AGENT,geod*,Location
 USER-AGENT,%E5%9C%B0%E5%9B%BE*,Location
 USER-AGENT,Maps*,Location
-# locationd
-HOST,gs-loc.apple.com,Location
-HOST-SUFFIX,ls.apple.com.akadns.net,Location
-HOST-SUFFIX,ls.apple.com.edgesuite.net,Location
-# GeoServices.framework
 HOST-SUFFIX,ls.apple.com,Location
+HOST,gs-loc.apple.com,Location
