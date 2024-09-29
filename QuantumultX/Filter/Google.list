@@ -5,13 +5,6 @@ host-keyword,google,Google
 host-suffix,abc.xyz,Google
 host-suffix,capitalg.com,Google
 
-# > Chrome & Chromium
-host-suffix,chrome.com,Google
-host-suffix,chromeexperiments.com,Google
-host-suffix,chromestatus.com,Google
-host-suffix,chromium.org,Google
-host-suffix,whatbrowser.org,Google
-
 # > Google AI
 host-suffix,autodraw.com,Google
 host-suffix,deepmind.com,Google
@@ -21,11 +14,6 @@ host-suffix,tfhub.dev,Google
 # > Google APIs
 host,translate.googleapis.com,Google
 host-suffix,googleapis.com,Google
-
-# > Google Blogger
-host-keyword,blogspot,Google
-host-suffix,blogger.com,Google
-host-suffix,googleblog.com,Google
 
 # > Google Cloud Platform
 host-suffix,dialogflow.com,Google
@@ -58,7 +46,7 @@ host-keyword,gmail,Google
 host-keyword,recaptcha,Google
 
 # > Google Static Files
-host-suffix,gstatic,Google
+host-suffix,gstatic.com,Google
 host-suffix,gmodules.com,Google
 host-suffix,googleusercontent.com,Google
 host-suffix,gvt0.com,Google
@@ -67,7 +55,3 @@ host-suffix,gvt3.com,Google
 
 # > Google VR
 host-suffix,tiltbrush.com,Google
-
-# > Material Design
-host-suffix,getmdl.io,Google
-host-suffix,material.io,Google
