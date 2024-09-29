@@ -1,6 +1,4 @@
 # > Apple
-HOST-WILDCARD,apple.com.*,Apple
-HOST-WILDCARD,apple.*,Apple
 HOST-SUFFIX,apple.co,Apple
 HOST-SUFFIX,apple.com,Apple
 HOST-SUFFIX,apple-dns.net,Apple
