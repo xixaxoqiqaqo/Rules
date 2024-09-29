@@ -1,29 +1,20 @@
 # > Apple
-HOST-WILDCARD,appleworldwidedeveloper.*,Apple
 HOST-WILDCARD,apple.com.*,Apple
 HOST-WILDCARD,apple.*,Apple
-HOST-WILDCARD,ipod.*,Apple
-HOST-WILDCARD,imac.*,Apple
-HOST-WILDCARD,iphone.*,Apple
-HOST-WILDCARD,macbook.*,Apple
-HOST-SUFFIX,aaplimg.com,Apple
 HOST-SUFFIX,apple.co,Apple
 HOST-SUFFIX,apple.com,Apple
 HOST-SUFFIX,apple-dns.net,Apple
 HOST-SUFFIX,cdn-apple.com,Apple
-HOST-SUFFIX,itunes.com,Apple
 #HOST-SUFFIX,mzstatic.com,Apple
-HOST-SUFFIX,safebrowsing.apple,Apple
-IP-CIDR,139.178.128.0/18,Apple
-IP-CIDR,144.178.0.0/19,Apple
-IP-CIDR,144.178.36.0/22,Apple
-IP-CIDR,144.178.48.0/20,Apple
-IP-CIDR,17.0.0.0/8,Apple
-IP-CIDR,192.35.50.0/24,Apple
-IP-CIDR,198.183.17.0/24,Apple
-IP-CIDR,205.180.175.0/24,Apple
-IP-CIDR,63.92.224.0/19,Apple
-IP-CIDR,65.199.22.0/23,Apple
+
+# Apple Developer
+HOST-WILDCARD,appleworldwidedeveloper.*.net,Apple
+
+# Apple Intelligence Siri and Search
+HOST-KEYWORD,apple-relay,Apple
+HOST-SUFFIX,smoot.apple.com,Apple
+HOST,guzzoni.apple.com
+,Apple
 
 # Apple Music
 USER-AGENT,Music*,Apple
@@ -31,15 +22,15 @@ USER-AGENT,Music*,Apple
 # App Store
 USER-AGENT,com.apple.appstored*,Apple
 
-# Cert
-USER-AGENT,com.apple.trustd*,Apple
-HOST,ocsp.apple.com,Apple
-HOST-SUFFIX,digicert.com,Apple
-HOST-SUFFIX,entrust.net,Apple
-HOST,ocsp.verisign.net,Apple
-
-# Spotlight
-HOST-SUFFIX,smoot.apple.com,Apple
+# iTunes
+HOST-SUFFIX,itunes.com,Apple
 
 # Look Up
 HOST,lookup-api.apple.com,Apple
+
+# OCSP
+USER-AGENT,com.apple.trustd*,Apple
+HOST,ocsp.apple.com,Apple
+
+# Safari
+HOST-SUFFIX,safebrowsing.apple,Apple
