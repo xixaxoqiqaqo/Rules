@@ -30,7 +30,6 @@ USER-AGENT,FMDClient* ,DIRECT
 USER-AGENT,FMFD*,DIRECT
 USER-AGENT,fmflocatord*,DIRECT
 HOST,sq-device.apple.com,DIRECT
-e.com,DIRECT
 # CN specific
 HOST-KEYWORD,-cn.apple.com,DIRECT
 HOST-SUFFIX,icloud.com.cn,DIRECT
