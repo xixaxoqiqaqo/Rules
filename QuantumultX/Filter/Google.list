@@ -12,7 +12,6 @@ host-suffix,tensorflow.org,Google
 host-suffix,tfhub.dev,Google
 
 # > Google APIs
-host,translate.googleapis.com,Google
 host-suffix,googleapis.com,Google
 
 # > Google Cloud Platform
@@ -40,7 +39,7 @@ host-suffix,madewithcode.com,Google
 host-suffix,synergyse.com,Google
 
 # > Gmail
-host-keyword,gmail,Google
+host-suffix,gmail.com,Google
 
 # > Google Recaptcha
 host-keyword,recaptcha,Google
