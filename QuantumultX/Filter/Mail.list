@@ -1,10 +1,11 @@
 # >> Mail
 # > Riseup
 HOST-KEYWORD,riseup,Mail
-# > Proton
+# > Proton Mail
 HOST-KEYWORD,proton,Mail
-HOST-KEYWORD,protonmail,Mail
+HOST-SUFFIX,pm.me,Mail
+HOST-SUFFIX,proton.me,Mail
+HOST-SUFFIX,protontech.ch,Mail
+HOST-SUFFIX,protonmail.ch,Mail
 HOST-SUFFIX,protonmail.com,Mail
 HOST-SUFFIX,protonstatus.com,Mail
-HOST-SUFFIX,proton.me,Mail
-HOST-SUFFIX,pm.me,Mail
