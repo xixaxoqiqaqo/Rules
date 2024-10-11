@@ -1,0 +1,123 @@
+# Alibaba
+host-suffix, 1688.com, China
+host-suffix, aliapp.org, China
+host-suffix, alibaba.com, China
+host-suffix, alibabacloud.com, China
+host-suffix, alibabausercontent.com, China
+host-suffix, alicdn.com, China
+host-suffix, alicloudccp.com, China
+host-suffix, aliexpress.com, China
+host-suffix, aliimg.com, China
+host-suffix, alikunlun.com, China
+host-suffix, alipay.com, China
+host-suffix, alipayobjects.com, China
+host-suffix, alisoft.com, China
+host-suffix, aliyun.com, China
+host-suffix, aliyuncdn.com, China
+host-suffix, aliyuncs.com, China
+host-suffix, aliyundrive.com, China
+host-suffix, amap.com, China
+host-suffix, autonavi.com, China
+host-suffix, cainiao.com, China
+host-suffix, dingtalk.com, China
+host-suffix, taobao.com, China
+host-suffix, taobaocdn.com, China
+host-suffix, tbcache.com, China
+host-suffix, tbcdn.com, China
+host-suffix, tmall.com, China
+host-suffix, tmall.hk, China
+
+# Baidu
+host-keyword, baidu, China
+host-suffix, bdimg.com, China
+host-suffix, bdstatic.com, China
+host-suffix, yunjiasu-cdn.net, China
+
+# ByteDance
+host-keyword, douyin, China
+host-keyword, toutiao, China
+host-suffix, 365yg.com, Chain
+host-suffix, bytedance.com, China
+host-suffix, byteimg.com, China
+host-suffix, ixigua.com, China
+host-suffix, ixiguavideo.com, China
+host, ib.snssdk.com, China
+
+# Colorful
+host-suffix, caiyunapp.com, China
+host-suffix, colorfulclouds.net, China
+host-suffix, caiyuncdn.com, China
+host-suffix, cyapi.cn, China
+
+# DiDi
+host-suffix, didialift.com, China
+host-suffix, didistatic.com, China
+host-suffix, diditaxi.com.cn, China
+
+# Douban
+host-keyword, douban, China
+
+# iQIYI
+host-suffix, iqiyi.com, China
+host-suffix, iqiyipic.com, China
+host-suffix, 71edge.com, China
+host-suffix, ppsimg.com, China
+host-suffix, qy.net, China
+
+# JD
+host-suffix, jd.com, China
+host-suffix, 360buyimg.com, China
+host-suffix, jdcloud.com, China
+host-suffix, jcloudstatic.com, China
+host-suffix, jcloudstatic.net, China
+
+# Kingsoft
+host-suffix, iciba.com, China
+host-suffix, ksosoft.com, China
+
+# Meituan
+host-suffix, meituan.com, China
+host-suffix, meituan.net, China
+host-suffix, mtyun.com, China
+host-suffix, dianping.com, China
+host-suffix, dpfile.com, China
+host-suffix, sankuai.com, China
+
+# Sina
+host-suffix, sina.com, China
+host-suffix, weibo.com, China
+host-suffix, weibocdn.com, China
+
+# Tencent
+user-agent, MicroMessenger*, China
+user-agent, WeChat*, China
+host-suffix, qlogo.cn, China
+host-suffix, qpic.cn, China
+host-suffix, servicewechat.com, China
+host-suffix, tenpay.com, China
+host-suffix, wechat.com, China
+host-suffix, wechatlegal.net, China
+host-suffix, wechatpay.com, China
+host-suffix, weixin.com, China
+host-suffix, weixinbridge.com, China
+host-suffix, weixinsxy.com, China
+host-suffix, gtimg.com, China
+host-suffix, qq.com, China
+
+# Xiaohongshu
+host-suffix, fengkongcloud.com, China
+host-suffix, xhscdn.com, China
+host-suffix, xhscdn.net, China
+host-suffix, xiaohongshu.com, China
+
+# Ximalaya
+host-suffix, ximalaya.com, China
+host-suffix, xmcdn.com, China
+
+# Zhihu
+host-suffix, vzuu.com, China
+host-suffix, zhihu.com, China
+host-suffix, zhimg.com, China
+
+# Country code
+host-suffix, China, China
