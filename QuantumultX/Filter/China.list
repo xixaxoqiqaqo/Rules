@@ -2,6 +2,8 @@
 host-suffix, 1688.com, China
 host-suffix, aliapp.org, China
 host-suffix, alibaba.com, China
+host-suffix, alibaba-inc.com, China
+host-suffix, alibabachengdun.com, China
 host-suffix, alibabacloud.com, China
 host-suffix, alibabausercontent.com, China
 host-suffix, alicdn.com, China
@@ -9,6 +11,7 @@ host-suffix, alicloudccp.com, China
 host-suffix, aliexpress.com, China
 host-suffix, aliimg.com, China
 host-suffix, alikunlun.com, China
+host-suffix, alipan.com, China
 host-suffix, alipay.com, China
 host-suffix, alipayobjects.com, China
 host-suffix, alisoft.com, China
@@ -16,31 +19,165 @@ host-suffix, aliyun.com, China
 host-suffix, aliyuncdn.com, China
 host-suffix, aliyuncs.com, China
 host-suffix, aliyundrive.com, China
+host-suffix, aliyundrive.net, China
 host-suffix, amap.com, China
 host-suffix, autonavi.com, China
 host-suffix, cainiao.com, China
+host-suffix, cibntv.net, China
 host-suffix, dingtalk.com, China
+host-suffix, ele.me, China
+host-suffix, fliggy.com, China
+host-suffix, goofish.com, China
+host-suffix, hichina.com, China
+host-suffix, mmstat.com, China
+host-suffix, mxhichina.com, China
+host-suffix, myalicdn.com, China
 host-suffix, taobao.com, China
 host-suffix, taobaocdn.com, China
+host-suffix, taopiaopiao.com, China
 host-suffix, tbcache.com, China
 host-suffix, tbcdn.com, China
 host-suffix, tmall.com, China
-host-suffix, tmall.hk, China
+host-suffix, ucweb.com, China
+host-suffix, ykimg.com, China
+host-suffix, youku.com, China
+host-keyword, alibaba, China
+host-keyword, alicdn, China
+host-keyword, alicloud, China
+host-keyword, alimama, China
+host-keyword, alipay, China
 
 # Baidu
-host-keyword, baidu, China
+host-suffix, baidu.com, China
+host-suffix, baidu-cdn.cn, China
+host-suffix, baidu-cdn.com, China
+host-suffix, baidu-cdn.net, China
+host-suffix, baiduyuncdn.cn, China
+host-suffix, baiduyuncdn.com, China
+host-suffix, baiduyuncdn.net, China
+host-suffix, baijincdn.cn, China
+host-suffix, baijincdn.com, China
+host-suffix, bce-cdn.cn, China
+host-suffix, bce-cdn.com, China
+host-suffix, bce-cdn.net, China
+host-suffix, bceapp.com, China
+host-suffix, bcebos.com, China
+host-suffix, bcedns.cn, China
+host-suffix, bcedns.com, China
+host-suffix, bcedns.net, China
+host-suffix, bceimg.cn, China
+host-suffix, bceimg.com, China
+host-suffix, bcelive.com, China
+host-suffix, bcevod.com, China
+host-suffix, bcewaf.com, China
+host-suffix, bchdemo.site, China
+host-suffix, bdbae.com, China
+host-suffix, bdcloudapi.com, China
+host-suffix, bddns.cn, China
+host-suffix, bdeceimg.com, China
 host-suffix, bdimg.com, China
+host-suffix, bdstatic.cn, China
 host-suffix, bdstatic.com, China
+host-suffix, bdtjrcv.com, China
+host-suffix, bduapp.com, China
+host-suffix, bdurl.net, China
+host-suffix, bdycdn.cn, China
+host-suffix, bdycdn.com, China
+host-suffix, bdycdn.net, China
+host-suffix, yjs-cdn.com, China
+host-suffix, yjs-cdn1.com, China
+host-suffix, yjs-cdn10.com, China
+host-suffix, yjs-cdn2.com, China
+host-suffix, yjs-cdn3.com, China
+host-suffix, yjs-cdn4.com, China
+host-suffix, yjs-cdn5.com, China
+host-suffix, yjs-cdn6.com, China
+host-suffix, yjs-cdn7.com, China
+host-suffix, yjs-cdn8.com, China
+host-suffix, yjs-cdn9.com, China
+host-suffix, yunjiasu-cdn-dnssec.net, China
+host-suffix, yunjiasu-cdn.com, China
 host-suffix, yunjiasu-cdn.net, China
+host-suffix, yunjiasu-dns.com, China
+host-suffix, yunjiasu-dns.net, China
+host-suffix, yunjiasu-test.com, China
+host-suffix, yunjiasu.com, China
+host-suffix, yunjiasucdn.info, China
+host-suffix, yunjiasucdn.net, China
+host-suffix, yunjiasudns.com, China
+host-suffix, yunjiasudns.net, China
+host-suffix, yunjiasupreview.com, China
+host-suffix, yunjiasussl.com, China
+host-suffix, zuoyebang.cc, China
+host-suffix, zuoyebang.com, China
+host-suffix, zybang.com, China
+host-keyword, baidu, China
 
 # ByteDance
 host-keyword, douyin, China
-host-keyword, toutiao, China
 host-suffix, 365yg.com, Chain
+host-suffix, amemv.com, China
+host-suffix, bdxiguaimg.com, China
+host-suffix, bdxiguastatic.com, China
+host-suffix, bdurl.net, China
+host-suffix, byted-static.com, China
 host-suffix, bytedance.com, China
+host-suffix, bytedance.net, China
+host-suffix, bytedns.net, China
+host-suffix, bytednsdoc.com, China
+host-suffix, bytegoofy.com, China
 host-suffix, byteimg.com, China
+host-suffix, bytemastatic.com, China
+host-suffix, bytescm.com, China
+host-suffix, bytetos.com, China
+host-suffix, bytexservice.com, China
+host-suffix, ctobsnssdk.com, China
+host-suffix, dailygn.com, China
+host-suffix, doubao.com, China
+host-suffix, douyin.com, China
+host-suffix, douyincdn.com, China
+host-suffix, douyinpic.com, China
+host-suffix, douyinstatic.com, China
+host-suffix, douyinvod.com, China
+host-suffix, ecombdapi.com, China
+host-suffix, feiliao.com, China
+host-suffix, gifshow.com, China
+host-suffix, huoshan.com, China
+host-suffix, huoshanzhibo.com, China
+host-suffix, ibytedapm.com, China
+host-suffix, idouyinvod.com, China
+host-suffix, iesdouyin.com, China
 host-suffix, ixigua.com, China
-host-suffix, ixiguavideo.com, China
+host-suffix, kspkg.com, China
+host-suffix, ndcpp.com, China
+host-suffix, pstatp.com, China
+host-suffix, searchpstatp.com, China
+host-suffix, snssdk.com, China
+host-suffix, toutiao.com, China
+host-suffix, toutiao13.com, China
+host-suffix, toutiaoapi.com, China
+host-suffix, toutiaocdn.com, China
+host-suffix, toutiaocdn.net, China
+host-suffix, toutiaocloud.com, China
+host-suffix, toutiaohao.com, China
+host-suffix, toutiaohao.net, China
+host-suffix, toutiaoimg.com, China
+host-suffix, toutiaopage.com, China
+host-suffix, toutiaovod.com, China
+host-suffix, vegslb.com, China
+host-suffix, volcengine.com, China
+host-suffix, volccdn.com, China
+host-suffix, volces.com, China
+host-suffix, volceapplog.com, China
+host-suffix, volcengineapi.com, China
+host-suffix, volcsirius.com, China
+host-suffix, volcsiriusbd.com, China
+host-suffix, weilayun.com, China
+host-suffix, wukong.com, China
+host-suffix, zijieapi.com, China
+host-suffix, zijieimg.com, China
+host-suffix, zjbyte.com, China
+host-suffix, zjcdn.com, China
 host, ib.snssdk.com, China
 
 # Colorful
@@ -50,12 +187,17 @@ host-suffix, caiyuncdn.com, China
 host-suffix, cyapi.cn, China
 
 # DiDi
-host-suffix, didialift.com, China
 host-suffix, didistatic.com, China
-host-suffix, diditaxi.com.cn, China
+host-suffix, kuaidadi.com, China
+host-suffix, udache.com, China
+host-suffix, xiaojukeji.com, China
 
 # Douban
-host-keyword, douban, China
+host-suffix, douban.com, China
+host-suffix, doubanio.com, China
+
+# IPIP
+host-suffix, ipip.net, China
 
 # iQIYI
 host-suffix, iqiyi.com, China
@@ -65,15 +207,42 @@ host-suffix, ppsimg.com, China
 host-suffix, qy.net, China
 
 # JD
-host-suffix, jd.com, China
+host-suffix, 360buy.com, China
 host-suffix, 360buyimg.com, China
+host-suffix, jcloudcs.com, China
+host-suffix, jd.com, China
 host-suffix, jdcloud.com, China
+host-suffix, jdpay.com, China
 host-suffix, jcloudstatic.com, China
 host-suffix, jcloudstatic.net, China
+host-suffix, paipai.com, China
 
-# Kingsoft
-host-suffix, iciba.com, China
-host-suffix, ksosoft.com, China
+# Keep
+host-suffix, gotokeep.com, China
+host-suffix, keepcdn.com, China
+
+# Kuaishou
+host-suffix, etoote.com, China
+host-suffix, gifshow.com, China
+host-suffix, kuaishou.com, China
+host-suffix, kuaishouzt.com, China
+host-suffix, ksapisrv.com, China
+host-suffix, kwaicdn.com, China
+host-suffix, kwimgs.com, China
+host-suffix, yximgs.com, China
+# Kuaishou Content Distribution
+host-suffix, aisee.tv, China
+host-suffix, ssrcdn.com, China
+host-suffix, xxpkg.com, China
+host-suffix, live-voip.com, China
+host-suffix, video-voip.com, China
+# Kuaishou Shopping
+host-suffix, adkwai.com, China
+host-suffix, eckwai.com, China
+host-suffix, oskwai.com, China
+host-suffix, paykwai.com, China
+host-suffix, shukwai.com, China
+host-suffix, wsukwai.com, China
 
 # Meituan
 host-suffix, meituan.com, China
@@ -83,26 +252,66 @@ host-suffix, dianping.com, China
 host-suffix, dpfile.com, China
 host-suffix, sankuai.com, China
 
+# Pinduoduo
+host-suffix, pinduoduo.com, China
+host-suffix, pinduoduo.net, China
+host-suffix, pddpic.com, China
+host-suffix, pddugc.com, China
+host-suffix, yangkeduo.com, China
+
+# Qunar
+host-suffix, qunar.com, China
+host-suffix, qunarzz.com, China
+host-suffix, qunarcdn.com, China
+
 # Sina
 host-suffix, sina.com, China
+host-suffix, weibo.cn, China
 host-suffix, weibo.com, China
 host-suffix, weibocdn.com, China
 
 # Tencent
+host-suffix, cdntips.net, China
+host-suffix, foxmail.com, China
+host-suffix, idqqimg.com, China
+host-suffix, igamecj.com, China
+host-suffix, myapp.com, China
+host-suffix, myqcloud.com, China
+host-suffix, qcloud.com, China
+host-suffix, qcloudimg.com, China
+host-suffix, qqmail.com, China
+host-suffix, qqurl.com, China
+host-suffix, smtcdns.com, China
+host-suffix, smtcdns.net, China
+host-suffix, soso.com, China
+host-suffix, tencent-cloud.com, China
+host-suffix, tencent-cloud.net, China
+host-suffix, tencent.com, China
+host-suffix, tencentmind.com, China
+host-suffix, tencentmusic.com, China
+host-suffix, weiyun.com, China
+# WeChat
 user-agent, MicroMessenger*, China
 user-agent, WeChat*, China
+host-suffix, iot-tencent.com, China
 host-suffix, qlogo.cn, China
 host-suffix, qpic.cn, China
 host-suffix, servicewechat.com, China
 host-suffix, tenpay.com, China
 host-suffix, wechat.com, China
 host-suffix, wechatlegal.net, China
+host-suffix, wechatos.net, China
 host-suffix, wechatpay.com, China
 host-suffix, weixin.com, China
 host-suffix, weixinbridge.com, China
 host-suffix, weixinsxy.com, China
 host-suffix, gtimg.com, China
 host-suffix, qq.com, China
+
+# Tuniu
+host-suffix, tuniu.com, China
+host-suffix, tuniu.net, China
+host-suffix, tuniucdn.com, China
 
 # Xiaohongshu
 host-suffix, fengkongcloud.com, China
@@ -120,4 +329,4 @@ host-suffix, zhihu.com, China
 host-suffix, zhimg.com, China
 
 # Country code
-host-suffix, China, China
+host-suffix, cn, China
