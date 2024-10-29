@@ -5,21 +5,8 @@ host-suffix, dm-event.net, proxy
 host-suffix, dmcdn.net, proxy
 host-suffix, dmxleo.com, proxy
 
-# Discord
-host-suffix, discord.co, proxy
-host-suffix, discord.com, proxy
-host-suffix, discord.gg, proxy
-host-suffix, discord.media, proxy
-host-suffix, discordapp.com, proxy
-host-suffix, discordapp.net, proxy
-
-# Heroku
-host-suffix, heroku.com, proxy
-host-suffix, herokuapp.com, proxy
-host-suffix, herokucdn.com, proxy
-
 # Instagram mirror
-host-suffix, pixwox.com, proxy
+host-suffix, piokok.com, proxy
 host-suffix, imginn.com, proxy
 
 # IMDb
@@ -27,96 +14,35 @@ host-suffix, imdb.com, proxy
 host-suffix, imdb.to, proxy
 host-suffix, media-imdb.com, proxy
 
-# Imgur
-host-suffix, imgur.io, proxy
-host-suffix, imgur.com, proxy
-host-suffix, imgurinc.com, proxy
-
 # Nivod
-host-keyword, .nivod, proxy
-host-suffix, nivod.tv, proxy
-host-suffix, nivod4.tv, proxy
-host-suffix, newpppp.com, proxy
-host-suffix, biggggg.com, proxy
-host-suffix, olddddd.com, proxy
+host-suffix, nivod.vip, proxy
 
-# ole
-host-suffix, olehd.com, proxy
+# oLe
+host-suffix, olehdtv.com, proxy
 host-suffix, olelive.com, proxy
 host-suffix, olevod.com, proxy
 host-suffix, olevod.io, proxy
 host-suffix, olevod.tv, proxy
-host-suffix, olevodtv.com, proxy
 host-suffix, olemovienews.com, proxy
-host-suffix, cdn.plyr.io, proxy
 
 # Pixiv
+host-suffix, pixiv.cat, proxy
+host-suffix, pixiv.co.jp, proxy
+host-suffix, pixiv.me, proxy
 host-suffix, pixiv.net, proxy
 host-suffix, pixiv.org, proxy
 host-suffix, pximg.net, proxy
 
 # Pixnet
-host-suffix, pixplug.in, proxy
-host-suffix, pixnet.cc, proxy
-host-suffix, pixfs.net, proxy
-host-suffix, pixnet.net, proxy
 host-suffix, pimg.tw, proxy
-
-# Reddit
-host-suffix, redd.it, proxy
-host-suffix, reddit.com, proxy
-host-suffix, redditmedia.com, proxy
-host-suffix, redditstatic.com, proxy
-
-# Short url
-host-suffix, tinyurl.com, proxy
-host-suffix, bit.ly, proxy
-host-suffix, ift.tt, proxy
-
-# Wikipedia
-host-suffix, wikileaks.org, proxy
-host-suffix, wikimapia.org, proxy
-host-suffix, wikimedia.org, proxy
-host-suffix, wikinews.org, proxy
-host-suffix, wikipedia.org, proxy
-host-suffix, wikiquote.org, proxy
+host-suffix, pixanalytics.com, proxy
+host-suffix, pixfs.net, proxy
+host-suffix, pixinsight.com.tw, proxy
+host-suffix, pixnet.cc, proxy
+host-suffix, pixnet.net, proxy
+host-suffix, pixnet.pro, proxy
+host-suffix, pixnet.tw, proxy
+host-suffix, pixplug.in, proxy
 
 # blocked_misc
-host-suffix, 500px.com, proxy
-host-suffix, 500px.org, proxy
-host-suffix, 500px.net, proxy
-host-suffix, akamai.net, proxy
-host-suffix, duckduckgo.com, proxy
-host-suffix, dribbble.com, proxy
-host-suffix, feedx.net, proxy
-host-suffix, flaticon.com, proxy
-host-suffix, gov.tw, proxy
-host-suffix, gillmeister-software.com, proxy
-host-suffix, greasyfork.org, proxy
-host-suffix, icons8.com, proxy
-host-suffix, imageresizer.com, proxy
-host-suffix, joydeepdeb.com, proxy
-host-suffix, limbopro.com, proxy
-host-suffix, medium.com, proxy
-host-suffix, oxlife.co, proxy
-host-suffix, ptt.cc, proxy
-host-suffix, remove.bg, proxy
-host-suffix, retoucher.online, proxy
-host-suffix, routinehub.co, proxy
-host-suffix, sleazyfork.org, proxy
-host-suffix, t66y.com, proxy
-host-suffix, tumblr.com, proxy
-host-suffix, url-encode-decode.com, proxy
-host-suffix, unsplash.com, proxy
-host-suffix, v2ex.com, proxy
-host-suffix, v2ex.co, proxy
-host-suffix, vimeo.com, proxy
-host-suffix, xteko.com, proxy
-host-suffix, yahoo.com, proxy
-host-suffix, yandex.ru, proxy
-host-suffix, ycombinator.com, proxy
-host-suffix, yuhuage.win, proxy
-host-suffix, zaobao.com, proxy
-host-suffix, zaobao.com.sg, proxy
-host-suffix, zb.com, proxy
-host, docs.rsshub.app, proxy
+host-keyword, ., proxy
