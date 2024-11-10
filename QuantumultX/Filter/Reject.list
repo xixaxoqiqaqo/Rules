@@ -1,146 +1,15 @@
-# 淘宝视频
-HOST,cloudvideocdn.taobao.com,REJECT
+# 6park
+host, ad.parkvv.com, reject
 
-# 淘宝直播聊天
+# Amazon
+host-suffix, amazon-adsystem.com, reject
 
-# 淘宝其他
-HOST,acs.m.taobao.com,REJECT
-HOST,agoo-report.m.taobao.com,REJECT
-HOST,xjp-jmacs.m.taobao.com,REJECT
-HOST,adashx4ae.ut.taobao.com,REJECT
-HOST,audid-api-sg.taobao.com,REJECT
-HOST,h-adashx.ut.taobao.com,REJECT
-HOST,guide-acs.m.taobao.com,REJECT
-HOST,umengacs.m.taobao.com,REJECT
-HOST,amdcopen.m.taobao.com,REJECT
-HOST,umengjmacs.m.taobao.com,REJECT
-HOST,amdc.m.taobao.com,REJECT
-HOST,xjp-msgacs.m.taobao.com,REJECT
-HOST,adashx4sg.ut.taobao.com,REJECT
-HOST,accscdn.m.taobao.com,REJECT
-HOST,trade-acs.m.taobao.com,REJECT
-HOST,ip.taobao.com,REJECT
-HOST,h-adashx4ae.ut.taobao.com,REJECT
-HOST,eco.taobao.com,REJECT
-HOST,err.taobao.com,REJECT
-HOST,baichuan-sdk.taobao.com,REJECT
-HOST,mamasearchad.cloudvideocdn.taobao.com,REJECT
-HOST,retcode.taobao.com,REJECT
-HOST,guangguang.cloudvideocdn.taobao.com,REJECT
-HOST,gaode-jmacs.m.taobao.com,REJECT
-HOST,dualstack-na610-na620.acs.m.taobao.com,REJECT
-HOST,h-adashx4sg.ut.taobao.com,REJECT
-HOST,sjarvis.taobao.com,REJECT
-HOST,gaode-acs.m.taobao.com,REJECT
-HOST,tunion-api.m.taobao.com,REJECT
-HOST,ea119.amdc.m.taobao.com,REJECT
-HOST,adashx4yt.m.taobao.com,REJECT
-HOST,area.amdc.m.taobao.com,REJECT
-HOST,re.taobao.com,REJECT
-HOST,adashbc.m.taobao.com,REJECT
-HOST,show.re.taobao.com,REJECT
-HOST,acs4baichuan.m.taobao.com,REJECT
-HOST,taobao.com.queniuak.com,REJECT
-HOST,textlink.simba.taobao.com,REJECT
-HOST,cloudvideocdn.taobao.com.queniuak.com,REJECT
-HOST,taobao.com.itotolink.net,REJECT
-HOST,tns.simba.taobao.com,REJECT
-HOST,s.click.taobao.com,REJECT
-HOST,h-adashx4bc.ut.taobao.com,REJECT
-HOST,m.taobao.com.itotolink.net,REJECT
-HOST,tbs-vsucai.cloudvideocdn.taobao.com.queniuak.com,REJECT
-HOST,tui.taobao.com,REJECT
-HOST,youku-acs.m.taobao.com,REJECT
-HOST,openjmacs.m.taobao.com,REJECT
-HOST,xjp-jmacs.m.taobao.com.itotolink.net,REJECT
-HOST,pcookie.taobao.com,REJECT
-HOST,audid-api-sg.taobao.com.itotolink.net,REJECT
-HOST,h-adashx4yt.ut.taobao.com,REJECT
-HOST,ald.taobao.com,REJECT
-HOST,video-zb.cloudvideocdn.taobao.com.queniuak.com,REJECT
-HOST,odin.re.taobao.com,REJECT
-HOST,ai.m.taobao.com,REJECT
-HOST,click.mz.simba.taobao.com,REJECT
-HOST,redirect.simba.taobao.com,REJECT
-HOST,video-sh.cloudvideocdn.taobao.com.queniuak.com,REJECT
-HOST,click.simba.taobao.com,REJECT
-HOST,advertisement.taobao.com.gds.alibabadns.com,REJECT
-HOST,wagbridge.advertisement.taobao.com.gds.alibabadns.com,REJECT
-HOST,ai.taobao.com,REJECT
-HOST,na61-na62.wagbridge.advertisement.taobao.com.gds.alibabadns.com,REJECT
-HOST,count.taobao.com,REJECT
-HOST,m.taobao.com.queniuak.com,REJECT
-HOST,wb.110.taobao.com,REJECT
-HOST,acookie.taobao.com,REJECT
-HOST,amos1.taobao.com,REJECT
-HOST,bcfeedback.taobao.com,REJECT
-HOST,g.click.taobao.com,REJECT
-HOST,global.click.taobao.com,REJECT
-HOST,ju.taobao.com,REJECT
-HOST,adash-c.m.taobao.com,REJECT
-HOST,baichuan.m.taobao.com,REJECT
-HOST,sdkinit.taobao.com,REJECT
-HOST,shop115048570.taobao.com,REJECT
-HOST,simaba.taobao.com,REJECT
-HOST,m.simaba.taobao.com,REJECT
-HOST,dsp.simba.taobao.com,REJECT
-HOST,fav.simba.taobao.com,REJECT
-HOST,m.simba.taobao.com,REJECT
-HOST,mclick.simba.taobao.com,REJECT
-HOST,srd.simba.taobao.com,REJECT
-HOST,stat.simba.taobao.com,REJECT
-HOST,click.tz.simba.taobao.com,REJECT
-HOST,tejia.taobao.com,REJECT
-HOST,temai.taobao.com,REJECT
-HOST,top.taobao.com,REJECT
-HOST,tyh.taobao.com,REJECT
-HOST,adash.ut.taobao.com,REJECT
-HOST,adashx.ut.taobao.com,REJECT
-HOST,adash-c.ut.taobao.com,REJECT
-HOST,log.video.taobao.com,REJECT
-HOST,acs.wapa.taobao.com,REJECT
-HOST,wdm.taobao.com,REJECT
+# Google
+host, googleads.g.doubleclick.net, reject
+host-suffix, app-analytics-services.com, reject
 
+# Taobao Video
+host, cloudvideocdn.taobao.com, reject
 
-HOST,httpdns.alicdn.com,REJECT
-HOST,userlink.alicdn.com,REJECT
-HOST,dorangesource.alicdn.com,REJECT
-HOST,yixiu-abtest.alicdn.com,REJECT
-HOST,ilce.alicdn.com,REJECT
-HOST,baichuan-sdk.alicdn.com,REJECT
-HOST,pss.alicdn.com,REJECT
-HOST,ialicdn.com,REJECT
-HOST,nbsdk-baichuan.alicdn.com,REJECT
-HOST,appdownload.alicdn.com,REJECT
-HOST,client.ialicdn.com,REJECT
-HOST,ldns.ialicdn.com,REJECT
-HOST,player-msl.ialicdn.com,REJECT
-HOST,asearch.alicdn.com,REJECT
-HOST,wwwwebalicdn.xxdingrui.com,REJECT
-HOST,proxy-mob-cld.alicdn.com,REJECT
-HOST,atanx.alicdn.com,REJECT
-HOST,umc.danuoyi.alicdn.com,REJECT
-HOST,alicdn.com.itotolink.net,REJECT
-HOST,atanx2.alicdn.com,REJECT
-HOST,oalipay-dl-django.alicdn.com,REJECT
-HOST,gma.alicdn.com,REJECT
-HOST,g01.a.alicdn.com,REJECT
-HOST,aecpm.alicdn.com,REJECT
-HOST,afpmm.alicdn.com,REJECT
-HOST,alimama.alicdn.com,REJECT
-HOST,handycam.alicdn.com,REJECT
-HOST,img.im.alicdn.com,REJECT
-HOST,kb-render.alicdn.com,REJECT
-HOST,strip.alicdn.com,REJECT
-HOST,unidesk.alicdn.com,REJECT
-HOST,alicdn.bayimob.com,REJECT
-
-HOST-SUFFIX,alibabachengdun.com,REJECT
-HOST-SUFFIX,alibabachengdun.net,REJECT
-HOST,umdc.alibabachengdun.com,REJECT
-HOST,mum.alibabachengdun.com,REJECT
-HOST,cdn-mum.alibabachengdun.com,REJECT
-HOST,acs-mum.alibabachengdun.com,REJECT
-HOST,vip-bgp-umdc.alibabachengdun.com,REJECT
-HOST,vip-bgp-mum.alibabachengdun.com,REJECT
-HOST,vip-cmcc-mum.alibabachengdun.com,REJECT
+# V2ex
+host-suffix, wwads.cn, reject
